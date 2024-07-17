@@ -91,7 +91,7 @@ The detailed presentation slides for this project can be found [here](https://gi
 - Microsoft Power BI Desktop
 
 ## 📈 Dashboard
-- [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiN2JkYzFlMzYtZjYzOC00MWFmLTk1MDctMDAwNGE3OWViMTY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+- [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiNWNkNDAzMzgtMTQwNy00ZGNmLWEyODUtOGY5ZmZlZDhkN2JkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 <img style="border-radius:25px;" src="https://github.com/amanat-mahmud/crm_and_sales/blob/main/Dashboard%20SS/overview.png">
 
 - [**More Images**](https://github.com/amanat-mahmud/crm_and_sales/tree/main/Dashboard%20SS)
