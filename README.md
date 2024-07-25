@@ -69,6 +69,8 @@ The primary objective is to provide actionable insights that will optimize sales
 9. Conduct regular customer check-ins
 
 ## 📌 Project Presentation
+### Video Presentation
+[![CRM & Sales Analysis Presentation](https://github.com/amanat-mahmud/crm_and_sales/blob/main/cover.png)](https://www.linkedin.com/feed/update/urn:li:activity:7222201387374297088/)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/crm_and_sales/blob/main/slide.pdf)
