@@ -38,8 +38,7 @@ The primary objective is to provide actionable insights that will optimize sales
 ## 📅 Dataset Overview
 - **Data source:** Company CRM
 - **Time period:** 2024
-- **Data size:** 
-  - crm_data(3000,17)
+- **Data size:** crm_data(3000,17)
 - **Key columns:** country, Deal Value, $, Industry, Organization size, Owner, Lead acquisition date, Product, Status, Stage, Deal Value $ ,Probability, % Expected close date Actual close date 
 - **Calculated/Dax columns:** response time, sort_index, customer_conversion_rate, win_rate, response_time, show_metrics
 
